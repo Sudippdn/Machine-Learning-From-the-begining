@@ -1,4 +1,3 @@
-_In this repository, I will be uploading about machine learning in daily basis_
 
  <!--  ![](https://github.com/Sudippdn/Machine-Learning-From-the-begining/blob/main/Image/Einstein%20and%20machine%20learning1.jfif)) -->
  
