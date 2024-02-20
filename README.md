@@ -35,14 +35,15 @@ b. - Classification: Infinitely large no of possible output
 
 ![](https://github.com/Sudippdn/Machine-Learning-From-the-begining/blob/main/Image/supervised-learning.png)
 
+# Day 2
 # 2. Unsupervised Learning
 
 Unsupervised learning is a type of machine learning algorithm that models its data from the unlabelled data and finds something interesting in it. Unsupervised learning might decide to make group or cluster as we aren't supposed to give `right answer` and angorithm has to find structure in the data.
 
-The few examples of unsupervised learning algorithm are:
-- Clustering Google News,
-- Clustering DNA microarray,
-- Clustering or Grouping Customers
-- Clustering similar kind of data
+>The few examples of unsupervised learning algorithm are:
+>- Clustering Google News,
+>- Clustering DNA microarray,
+>- Clustering or Grouping Customers
+>- Clustering similar kind of data
 
 ![](https://github.com/Sudippdn/Machine-Learning-From-the-begining/blob/main/Image/unsupervised-learning.webp)
