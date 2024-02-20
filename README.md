@@ -33,6 +33,8 @@ a. - Regression tries to predict any number from infinitely mant no of possible 
 b. - Classification: Infinitely large no of possible output
    - Regression: Predict categories of small no of possible outputs
 
+![](https://github.com/Sudippdn/Machine-Learning-From-the-begining/blob/main/Image/supervised-learning.png)
+
 # 2. Unsupervised Learning
 
 Unsupervised learning is a type of machine learning algorithm that models its data from the unlabelled data and finds something interesting in it. Unsupervised learning might decide to make group or cluster as we aren't supposed to give `right answer` and angorithm has to find structure in the data.
