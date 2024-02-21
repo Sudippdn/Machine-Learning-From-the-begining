@@ -47,3 +47,11 @@ The few examples of unsupervised learning algorithm are:
 - Clustering similar kind of data
 
 ![](https://github.com/Sudippdn/Machine-Learning-From-the-begining/blob/main/Image/unsupervised-learning.webp)
+
+# Day 3
+## Cost Function
+Cost Function is a mathematical function that quantifies the difference between the predicted values of a model and the actual observed values. Cost Function in machine learning contains parameters w and b. While performing with the large number of training data, the cost function might get higher as a result a recipocal of 2m is taken. The goal is to get minimum cost function to measures how well the model's predictions align with the actual target values.
+
+When the cost function is minimum or close to zero, it means that the model fits better than the other choices for parameters w and b.
+
+![](https://github.com/Sudippdn/Machine-Learning-From-the-begining/blob/main/Image/cost%20function.png)
