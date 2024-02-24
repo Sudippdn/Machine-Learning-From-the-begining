@@ -60,7 +60,7 @@ When the cost function is minimum or close to zero, it means that the model fits
 # Gradient Descent Algorithm
 Today, I learned about the gradient descent algorithm, which plays a significant role in decreasing the cost function. In this algorithm, the value of 'w' is changed with respect to the derivative of the cost function or the learning rate. The learning rate is typically taken positive and in between 0 and 1. When we use a very low learning rate, the descent steps will be very slow, taking only baby steps. However, using too high a learning rate number can lead to overshooting the gradient descent and failing to converge.
 
-> [!Note] :
+> [!Note]
 > When updating 'w' and 'b' simultaneously, update 'w' and 'b' first in a temporary variable, and then copy the temporary variable to 'w' and 'b'. Otherwise, the changed value of 'w' will be in the new updating 'b', leading to incorrect final output values.
 
 ![](https://github.com/Sudippdn/Machine-Learning-From-the-begining/blob/main/Image/gradient%20descent%20algorithm.png)
