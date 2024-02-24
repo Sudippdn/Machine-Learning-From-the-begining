@@ -17,7 +17,7 @@ The other types of machine learning algorithms are:
 - Recommender system
 - Reinforcement learning
 
-# 1. Supervised Learning
+## 1. Supervised Learning
 
 Supervised learning is a type of machine learning algorithm where the model learns from labeled data or right answer. In supervised learning, the algorithm is trained on a dataset that consists of input-output pairs, where the input data is accompanied by corresponding correct output labels. The goal of supervised learning is to learn a mapping function from input to output so that it can predict the output for new, unseen input data. 
 
@@ -36,7 +36,7 @@ b. - Classification: Infinitely large no of possible output
 ![](https://github.com/Sudippdn/Machine-Learning-From-the-begining/blob/main/Image/supervised-learning.png)
 
 # Day 2
-# 2. Unsupervised Learning
+## 2. Unsupervised Learning
 
 Unsupervised learning is a type of machine learning algorithm that models its data from the unlabelled data and finds something interesting in it. Unsupervised learning might decide to make group or cluster as we aren't supposed to give `right answer` and angorithm has to find structure in the data.
 
@@ -57,7 +57,7 @@ When the cost function is minimum or close to zero, it means that the model fits
 ![](https://github.com/Sudippdn/Machine-Learning-From-the-begining/blob/main/Image/cost%20function.png)
 
 # Day 4
-# Gradient Descent Algorithm
+## Gradient Descent Algorithm
 Today, I learned about the gradient descent algorithm, which plays a significant role in decreasing the cost function. In this algorithm, the value of 'w' is changed with respect to the derivative of the cost function or the learning rate. The learning rate is typically taken positive and in between 0 and 1. When we use a very low learning rate, the descent steps will be very slow, taking only baby steps. However, using too high a learning rate number can lead to overshooting the gradient descent and failing to converge.
 
 > [!Note]
