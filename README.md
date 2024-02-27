@@ -65,3 +65,5 @@ Today, I learned about the gradient descent algorithm, which plays a significant
 
 ![](https://github.com/Sudippdn/Machine-Learning-From-the-begining/blob/main/Image/gradient%20descent%20algorithm.png)
 
+# Day 5
+
