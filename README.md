@@ -68,7 +68,20 @@ Today, I learned about the gradient descent algorithm, which plays a significant
 # Day 5
 ## Multiple Linear Regression using vectorization
 
-Unlike previous notation, there are multiple features or variables to make a prediction.  Suppose there are other pieces of information, such as the area of land, number of bedrooms, floors, and age of the home, needed to predict the price of the home.
+Multiple Linear Regression is the method of perfoming gradient descent of dataset having multiple features or variables to make a prediction. 
+For example: Suppose, there are other pieces of information, such as the area of land, number of bedrooms, floors, and age of the home, needed to predict the price of the home.
+![](https://github.com/Sudippdn/Machine-Learning-From-the-begining/blob/main/Image/Day%205/multiple%20feature%20of%20linear%20regression.png)
 
-In this case, we can use the vectorization ➡ method, which performs faster as it utilizes the Python library NumPy for the calculations.
+Gradient Descent can be find from various method. 
+- Simple method i.e adding individual list of array
+- Using For loop and add individual list of array
+- Using mathematical summation function
+- Using vectorization
+   _Methods can be displays as:_
+![](https://github.com/Sudippdn/Machine-Learning-From-the-begining/blob/main/Image/Day%205/vectorization%20part%201.png)
+
+Among among methods, we can use the vectorization method, which performs faster as it utilizes the Python library NumPy for the calculations. _It can be show as:_
+![](https://github.com/Sudippdn/Machine-Learning-From-the-begining/blob/main/Image/Day%205/efficiency%20of%20vectorization.png)
+
 There are other alternatives to gradient descent called the 'Normal Equation,' which is suitable only for linear equations. It solves for 'w' and 'b' without iteration but becomes slow when the number of features is large (> 10,000) 
+![](https://github.com/Sudippdn/Machine-Learning-From-the-begining/blob/main/Image/Day%205/Normal%20Equation.png)
