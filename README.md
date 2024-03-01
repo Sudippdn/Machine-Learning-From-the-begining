@@ -78,15 +78,18 @@ Gradient Descent can be find from various method.
 - Using For loop and add individual list of array
 - Using mathematical summation function
 - Using vectorization
-   _Methods can be displays as:_
+
+  _Methods can be displays as:_
   
 ![](https://github.com/Sudippdn/Machine-Learning-From-the-begining/blob/main/Image/Day%205/vectorization%20part%201.png)
 
-Among among methods, we can use the vectorization method, which performs faster as it utilizes the Python library NumPy for the calculations. _It can be show as:_
+Among among methods, we can use the `vectorization method`, which performs faster as it utilizes the Python library NumPy for the calculations. 
+
+_It can be show as:_
 
 ![](https://github.com/Sudippdn/Machine-Learning-From-the-begining/blob/main/Image/Day%205/efficiency%20of%20vectorization.png)
 
 
-There are other alternatives to gradient descent called the 'Normal Equation,' which is suitable only for linear equations. It solves for 'w' and 'b' without iteration but becomes slow when the number of features is large (> 10,000) 
+There are other alternatives to gradient descent called the [Normal Equation](https://towardsdatascience.com/normal-equation-a-matrix-approach-to-linear-regression-4162ee170243#:~:text=Limitations%3A,for%20more%20than%2010K%20features.), which is suitable only for linear equations. It solves for 'w' and 'b' without iteration but becomes slow when the number of features is large (> 10,000) 
 
 ![](https://github.com/Sudippdn/Machine-Learning-From-the-begining/blob/main/Image/Day%205/Normal%20Equation.png)
