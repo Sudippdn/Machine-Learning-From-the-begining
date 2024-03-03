@@ -111,3 +111,16 @@ Feature scaling is a method used to normalize the range of independent variables
 _We can identify the problems of gradient descent by the following methods:_
 
 ![](https://github.com/Sudippdn/Machine-Learning-From-the-begining/blob/main/Image/Day%206/learning%20rate%20and%20curve.png)
+
+# Day 7
+### Classification with Logistic Regression
+
+Today, I introduced myself with simoid function or logistic function and logistic regression and then performed classification using linear and non-linear decision boundaries.  The reason why we used logistic regression instead of linear regression for classification is, linear regression does not work properly for classification in every aspect where logistic regression can do most often. 
+
+![](https://github.com/Sudippdn/Machine-Learning-From-the-begining/blob/main/Image/Day%207/Logistic%20Regression.png)
+
+We can categorises the decision boundaries in two types. Type are:
+- Linear Decision Boundaries
+- Non-Linear Decision Boundaries
+
+![](https://github.com/Sudippdn/Machine-Learning-From-the-begining/blob/main/Image/Day%207/decision%20boundaries.png)
