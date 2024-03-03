@@ -93,3 +93,20 @@ _It can be show as:_
 There are other alternatives to gradient descent called the [Normal Equation](https://towardsdatascience.com/normal-equation-a-matrix-approach-to-linear-regression-4162ee170243#:~:text=Limitations%3A,for%20more%20than%2010K%20features.), which is suitable only for linear equations. It solves for 'w' and 'b' without iteration but becomes slow when the number of features is large (> 10,000) 
 
 ![](https://github.com/Sudippdn/Machine-Learning-From-the-begining/blob/main/Image/Day%205/Normal%20Equation.png)
+
+# Day 6
+### Feature Scaling for gradient descent
+Feature scaling is a method used to normalize the range of independent variables or features of data. Suppose, if you have multiple independent variables like age, salary, and height with the range of (18-60years), (NRS.10,000- to NRS.2,50,000) and (0.5m to 2m), then feature scaling will help them to be in same range (especially 0 - 1).
+
+### Feature Scaling is importance for the following reasons: 
+ - It helps to navigate the direct path to the global minimum.
+ - Imagine the cost function like a landscape with hills and valleys. Feature scaling creates a smoother landscape for gradient descent to navigate. This smoother landscape allows the algorithm to take larger steps towards the minimum, making the optimization process more efficient.
+ - Equal footing of the features, so that other features with large magnitude differences do not overshadow the smaller features.
+
+### Following are the methods that can be utilized to perform scaling:
+ - Feature Scaling
+ - Mean Normalization
+ - Z-score Normalization
+
+We can identify the problems of gradient descent by the following methods:
+#Day
