@@ -108,5 +108,6 @@ Feature scaling is a method used to normalize the range of independent variables
  - Mean Normalization
  - Z-score Normalization
 
-We can identify the problems of gradient descent by the following methods:
-#Day
+_We can identify the problems of gradient descent by the following methods:_
+
+![](https://github.com/Sudippdn/Machine-Learning-From-the-begining/blob/main/Image/Day%206/learning%20rate%20and%20curve.png)
