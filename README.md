@@ -5,7 +5,7 @@
 
 # **Machine Learning Full Course**
 
-### **TABLE OF CONTENT**
+### **TABLE OF CONTENTS**
 Days | Topic 
 -----|--------
  1   | <a href = "#supervised">Supervised Learning</a>
