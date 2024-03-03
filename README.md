@@ -107,7 +107,7 @@ There are other alternatives to gradient descent called the [Normal Equation](ht
 ![](https://github.com/Sudippdn/Machine-Learning-From-the-begining/blob/main/Image/Day%205/Normal%20Equation.png)
 
 # Day 6
-### <section id = "FSGD"Feature Scaling for Gradient Descent></section>
+### <section id = "FSGD">Feature Scaling for Gradient Descent</section>
 Feature scaling is a method used to normalize the range of independent variables or features of data. Suppose, if you have multiple independent variables like age, salary, and height with the range of (18-60years), (NRS.10,000- to NRS.2,50,000) and (0.5m to 2m), then feature scaling will help them to be in same range (especially 0 - 1).
 
 ### Feature Scaling is importance for the following reasons: 
