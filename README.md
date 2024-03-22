@@ -137,3 +137,5 @@ We can categorises the decision boundaries in two types. Type are:
 
 
 ![](https://github.com/Sudippdn/Machine-Learning-From-the-begining/blob/main/Image/Day%207/decision%20boundaries.png)
+
+# Resuming 
