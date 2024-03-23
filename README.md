@@ -3,7 +3,7 @@
  
  ![](https://github.com/Sudippdn/Machine-Learning-From-the-begining/blob/main/Image/Einstein%20teaching%20machine%20learning.jfif)
 
-## **Machine Learning Full Course**
+## **Machine Learning Full Course **
 
 ### **TABLE OF CONTENTS**
 Days | Topic 
