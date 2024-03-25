@@ -6,7 +6,7 @@
 ## **Machine Learning Full Course **
 
 ### **TABLE OF CONTENTS**
-Days | Topic 
+Days | Topic
 -----|--------
  1   | <a href = "#supervised">Supervised Learning</a>
  2   | <a href = "#unsupervised">Unsupervised Learning</a>
