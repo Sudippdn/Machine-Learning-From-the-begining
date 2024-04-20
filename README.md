@@ -143,3 +143,14 @@ We can categorises the decision boundaries in two types. Type are:
 ## Cost functin for Logistic Regression
 
 The graph of the Mean squared error function is non-convex for logistic regression. As we are putting dependent variable x in a non-linear sigmoid function. As discussed above gradient descent does not work for non-convex functions, logistic regression model would never be able to converge to optimal values.
+
+### Loss Function
+`Loss Function` is used to achieve the convex function to achieve 'Global Minimum' for which we have to use loss function. The use of log in loss function will get to convex function where we can find global minimum. The intersection point made by log and negative log function will make a convex curve as logistic regression ranges from 0 to 1.
+
+**Here is a convex function when y = 1 **
+
+![](https://github.com/Sudippdn/Machine-Learning-From-the-begining/blob/main/Image/Day8/Loss%20Function%20for%20y%3D%201.png)
+
+[!Note] For y = 0, we use -log function and the curve started from 0 and goes to infinity. The further prediction f(x) is from target y, higher the loss.
+
+![](https://github.com/Sudippdn/Machine-Learning-From-the-begining/blob/main/Image/Day8/Loss%20Function%20for%20y%3D%200.png)
