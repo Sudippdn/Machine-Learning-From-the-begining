@@ -151,6 +151,7 @@ The graph of the Mean squared error function is non-convex for logistic regressi
 
 ![](https://github.com/Sudippdn/Machine-Learning-From-the-begining/blob/main/Image/Day8/Loss%20Function%20for%20y%3D%201.png)
 
-[!Note] For y = 0, we use -log function and the curve started from 0 and goes to infinity. The further prediction f(x) is from target y, higher the loss.
+> [!Note] 
+> For y = 0, we use -log function and the curve started from 0 and goes to infinity. The further prediction f(x) is from target y, higher the loss.
 
 ![](https://github.com/Sudippdn/Machine-Learning-From-the-begining/blob/main/Image/Day8/Loss%20Function%20for%20y%3D%200.png)
