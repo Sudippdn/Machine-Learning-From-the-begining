@@ -139,3 +139,7 @@ We can categorises the decision boundaries in two types. Type are:
 ![](https://github.com/Sudippdn/Machine-Learning-From-the-begining/blob/main/Image/Day%207/decision%20boundaries.png)
 
 # Day 8
+
+## Cost functin for Logistic Regression
+
+The graph of the Mean squared error function is non-convex for logistic regression. As we are putting dependent variable x in a non-linear sigmoid function. As discussed above gradient descent does not work for non-convex functions, logistic regression model would never be able to converge to optimal values.
