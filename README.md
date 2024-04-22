@@ -156,4 +156,16 @@ The graph of the Mean squared error function is non-convex for logistic regressi
 
 ![](https://github.com/Sudippdn/Machine-Learning-From-the-begining/blob/main/Image/Day8/Loss%20Function%20for%20y%3D%200.png)
 
-The logistic loss function can be simplified and written in a same line
+#### The Logistic Loss Function
+
+The logistic loss function can be written in a single line in the following way:
+
+![](https://github.com/Sudippdn/Machine-Learning-From-the-begining/blob/main/Image/Day8/Simplified%20Loss%20Funciton.png)
+
+When we used this simplified formula then, when we introduced y = 1 then second part becomes zero as 1-1 = 0 as a result we have first part when y = 1 and when y = 0, first part becomes zero and get the desired value.
+
+#### The cost function for Logistic Regression 
+
+After substituting the loss function, cost function for logistic regression becomes:
+
+![](https://github.com/Sudippdn/Machine-Learning-From-the-begining/blob/main/Image/Day8/Simplified%20Cost%20Function%20in%20Logistic%20Regression.png) 
