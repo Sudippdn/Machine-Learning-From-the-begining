@@ -169,3 +169,6 @@ When we used this simplified formula then, when we introduced y = 1 then second 
 After substituting the loss function, cost function for logistic regression becomes:
 
 ![](https://github.com/Sudippdn/Machine-Learning-From-the-begining/blob/main/Image/Day8/Simplified%20Cost%20Function%20in%20Logistic%20Regression.png) 
+
+# Day 9
+## Gradient Descent for Logistic Regression
