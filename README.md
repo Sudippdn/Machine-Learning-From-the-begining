@@ -14,7 +14,7 @@ Days | Topic
  4   | <a href = "#GDA">Gradient Descent Algorithm</a>
  5   | <a href = "#MLR">Multiple Linear Regression</a>
  6   | <a href = "#FSGD">Feature Scaling with Gradient Descent</a>
- 7   | <a href = "#LR">Classification with Logistic Regression</a>
+ 7   | <a href = "#LR">Classification with Logistic Regression </a>
 
 # Day 1
 ## Introduction: 
