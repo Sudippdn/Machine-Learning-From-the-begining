@@ -172,3 +172,6 @@ After substituting the loss function, cost function for logistic regression beco
 
 # Day 9
 ## Gradient Descent for Logistic Regression
+
+# Day 10 
+## Lab 
