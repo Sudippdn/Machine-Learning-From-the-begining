@@ -43,7 +43,7 @@ a. - Regression tries to predict any number from infinitely mant no of possible 
    - Classification Only tries to predict either 0 or 1
 
 b. - Classification: Infinitely large no of possible output
-   - Regression: Predict categories of small no of possible outputs
+   - Regression: Predict categories of small no of possible outputs 
 
 ![](https://github.com/Sudippdn/Machine-Learning-From-the-begining/blob/main/Image/supervised-learning.png)
 
