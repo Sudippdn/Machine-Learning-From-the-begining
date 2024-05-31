@@ -27,7 +27,7 @@ There are two main types of Machine Learning algorithms. They are:
 
 The other types of machine learning algorithms are:
 - Recommender system
-- Reinforcement learning
+- Reinforcement learning 
 
 ## <section id = "supervised">1. Supervised Learning</section>
 
