@@ -37,13 +37,23 @@ There are two type of supervised learning which are:
 i. Regression - Housing Price Prediction
 ii. Classification - Finding out if lump is benign or malignant
 
-Difference between Regression and Classification
+## Difference Between Regression and Classification
 
-a. - Regression tries to predict any number from infinitely mant no of possible numbers.
-   - Classification Only tries to predict either 0 or 1
+### Regression
+- Predicts a continuous numerical value.
+- Can predict infinitely many possible values within a range.
+- Example: Predicting a house price (Rs. 5,250,000).
 
-b. - Classification: Infinitely large no of possible output
-   - Regression: Predict categories of small no of possible outputs 
+### Classification
+- Predicts a category or class.
+- Predicts one of a finite set of classes.
+- Example: Predicting whether an email is spam (1) or not spam (0).
+
+### Key Difference
+- **Regression:** Predicts numerical values.
+- **Classification:** Predicts categories.
+
+**Note:** Classification is not limited to 0 or 1. Binary classification has two classes, while multiclass classification has three or more classes.
 
 ![](https://github.com/Sudippdn/Machine-Learning-From-the-begining/blob/main/Image/supervised-learning.png)
 
